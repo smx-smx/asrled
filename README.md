@@ -12,4 +12,5 @@ The queue processor extracts GPIO reads/writes and produces a log file.
 This log file can then be used in PulseView for analysis
 
 ![Diagram](doc/asrled.drawio.svg)
+
 ![Pulseview](doc/pulseview.png)
